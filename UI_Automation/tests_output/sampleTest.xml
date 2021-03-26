@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="sampleTest"
+    errors="1" failures="0" hostname="" id="" package="sampleTest" skipped="0"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+        Error: An error occurred while retrieving a new session: &#34;socket hang up&#34;
+   
+    </system-err>
+  
+
+    
+    <error message="An error occurred while retrieving a new session: &#34;socket hang up&#34;"><![CDATA[
+      Error: An error occurred while retrieving a new session: &#34;socket hang up&#34;
+    at SeleniumProtocol.handleSessionCreateError (C:\Automation\node_modules\nightwatch\lib\transport\transport.js:103:15)
+    at HttpRequest.&lt;anonymous&gt; (C:\Automation\node_modules\nightwatch\lib\transport\transport.js:159:32)
+    at HttpRequest.emit (events.js:315:20)
+    at ClientRequest.&lt;anonymous&gt; (C:\Automation\node_modules\nightwatch\lib\http\request.js:142:19)
+    at ClientRequest.emit (events.js:327:22)
+    at Socket.socketCloseListener (_http_client.js:443:11)
+    at Socket.emit (events.js:327:22)
+    at TCP.&lt;anonymous&gt; (net.js:673:12)
+      ]]></error>  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="UITestAutomationTrello"
+    errors="0" failures="0" hostname="" id="" package="UITestAutomationTrello" skipped="0"
+    tests="4" time="36.29" timestamp="">
+  
+    <testcase name="clickLoginButton" classname="UITestAutomationTrello" time="6.062" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="enterUsernamePassword" classname="UITestAutomationTrello" time="10.52" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="createBoard" classname="UITestAutomationTrello" time="17.70" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="createCardInFirstList" classname="UITestAutomationTrello" time="2.011" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="UITestAutomationTrello"
+    errors="0" failures="1" hostname="" id="" package="UITestAutomationTrello" skipped="2"
+    tests="2" time="15.77" timestamp="">
+  
+    <testcase name="clickLoginButton" classname="UITestAutomationTrello" time="15.22" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="enterUsernamePassword" classname="UITestAutomationTrello" time="0.5490" assertions="1">  <failure message="Timed out while waiting for element &lt;div.layout-twothirds-center.account-form&gt; to be present for 50 milliseconds. - expected &#34;visible&#34; but got: &#34;not found&#34; (529ms)">    at Object.enterUsernamePassword (C:\BenitoAssessment\Automation\tests\UITestAutomationTrello.js:20:10)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+    
+    <testcase
+      name="createBoard" classname="UITestAutomationTrello">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="createCardInFirstList" classname="UITestAutomationTrello">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
